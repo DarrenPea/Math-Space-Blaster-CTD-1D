@@ -11,8 +11,8 @@ First term final project in SUTD.
 3. Run Math_Space_Blaster.py
 
 ## Team Members
-Edgar Aw
-Ng Kin Meng
-Pea Jun Hao Darren
-Then Kunda Justin
-Umali Mike Guil Anonuevo
+Edgar Aw\n
+Ng Kin Meng\n
+Pea Jun Hao Darren\n
+Then Kunda Justin\n
+Umali Mike Guil Anonuevo\n
